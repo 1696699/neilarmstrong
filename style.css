@@ -1,0 +1,59 @@
+body{
+    overflow: hidden;
+    font-family: 'Source Code Pro', monospace;
+    background-color: #eae5d1;
+}
+#home{
+    margin-bottom: 1080;
+    text-align: center;
+}
+#about{
+    margin-bottom: 1080;
+    text-align: center;
+}
+#works{
+    margin-bottom: 1080;
+    text-align: center;
+}
+#btn-placeholder{
+    position: fixed;
+    background-color: #2c3c6a;
+    width: 105%;
+    margin-left: -10px;
+    height: 50px;
+    padding-top: 10px;
+    margin-top: -10px;
+}
+.Titles{
+    padding: 20%;
+    color: #100a0a;
+    text-align: center;
+}
+.Titles-home{
+    color: #100a0a;
+}
+.btn-div{
+    border: none;
+    background-color: #2c3c6a;
+    padding: 21px;
+    margin-top: -10px;
+    font-family: 'Source Code Pro', monospace;
+    color: #a5a589;
+}
+:hover.btn-div{
+    background-color: #2c1d34;
+    color: #eae5d1;
+}
+#Profile{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+}
+#aboutMe{
+    margin-top: -250px;
+}
+#Timeline1{
+    margin-top: -250px;
+    width: 1100px;
+    margin-inline: 5%;
+}
